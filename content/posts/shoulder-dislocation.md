@@ -1,6 +1,6 @@
 ---
 date: 2020-04-19
-a: 
+author: abi
 title: Template
 description: Description shown in toolbar
 published: true
@@ -45,5 +45,5 @@ Delete if not needed
 ### Studies
 Delete if not needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTUyNjU4NV19
+eyJoaXN0b3J5IjpbMTQ4MTc0NTIzOSwtMjgxNTI2NTg1XX0=
 -->

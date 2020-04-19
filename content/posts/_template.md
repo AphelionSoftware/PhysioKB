@@ -5,6 +5,7 @@ title: Template
 description: Description shown in toolbar
 published: true
 athome: true
+cover_image: /images/uploads/sun-3713835_1920.jpg
 tags: 
 - exercise
 - stretch

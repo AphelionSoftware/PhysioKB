@@ -1,6 +1,6 @@
 ---
 date: 2020-04-19
-author: abi
+a: 
 title: Template
 description: Description shown in toolbar
 published: true
@@ -28,7 +28,7 @@ bodyparts:
 - adductor-longus
 - etc
 ---
-### Synonyms
+ Synonyms
 ### Equipment needed
 Only needed if it needs more explanation or non standard 
 #### Alternatives
@@ -45,5 +45,5 @@ Delete if not needed
 ### Studies
 Delete if not needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTA2NTEwMl19
+eyJoaXN0b3J5IjpbLTI4MTUyNjU4NSwtMzYxMDY1MTAyXX0=
 -->
